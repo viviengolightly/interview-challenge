@@ -1,0 +1,28 @@
+.wrapper{
+	font-size: 15px;
+}
+
+.row{
+	  display: table;
+}
+
+.left{
+	width: 50%;
+	display: table-cell;
+}
+.right{
+	width: 50%;
+	display: table-cell;
+}
+
+.itemWrapper{
+	border: 1px solid black;
+	padding: 4px;
+	margin-bottom: 1px;
+}
+
+.headerWrapper{
+	border: 1px solid black;
+	margin-bottom: 1px;
+	width: 100%;
+}

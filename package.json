@@ -14,10 +14,16 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.5.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
     "express": "^4.16.3",
-    "styled-components": "^3.3.3",
+    "prop-types": "^15.7.2",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "shortid": "^2.2.15",
+    "styled-components": "^3.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",

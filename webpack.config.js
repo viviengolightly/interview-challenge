@@ -39,6 +39,12 @@ module.exports = {
       '/api': 'http://localhost:8080'
     }
   },
+  node: {
+    net: 'empty',
+    tls: 'empty',
+    dns: 'empty',
+    fs: 'empty',
+  },
   plugins: [
     new CleanWebpackPlugin([outputDirectory]),
     new HtmlWebpackPlugin({
