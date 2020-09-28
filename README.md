@@ -73,3 +73,9 @@ Search on the data is perforrmed, by reading the input value and based on that t
 
 Testing scripts are saved in /src/tests. 
 
+Next steps: 
+
+- Add redux for state management.
+- Improve testing(add more test to check the functionality).
+- Work on the style of the component. 
+
